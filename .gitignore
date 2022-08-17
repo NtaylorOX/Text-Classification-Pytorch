@@ -1,8 +1,10 @@
 data/
+all_data/
 logs/
 checkpoints/
 fonts/
 utils/visual.py
+./all_data/
 
 # Editors
 .vscode/
